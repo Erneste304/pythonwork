@@ -1,0 +1,7 @@
+text = input("enter any text: ")
+text = text.replace("a", "k")
+text = text.replace("i", "j")
+text = text.replace("o", "p")
+text = text.replace("e", "t")
+text = text.replace("u", "f")
+print(text)
